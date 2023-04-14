@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HoomiKX
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning python
-- 📫 How to reach me -> discord ( https://www.discord.id search 1063155412116963409 )
+- 📫 How to reach me -> discord HoomiXT#1150
